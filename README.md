@@ -25,11 +25,8 @@ A backend project to manage and distribute customer and employee data based on g
 ## Tech Stack
 
 - **Database:** SQL Server, MongoDB
-
 - **Tools:** Entity Framework, JWT, AutoMapper
-
 - **Framework:** ASP.NET Core Web API 8.0
-
 - **Multimedia Storage:** Cloudinary
 
 ## Installation
@@ -76,3 +73,6 @@ A backend project to manage and distribute customer and employee data based on g
      ```env
      DB_CONNECTION_STRING=your_sql_server_connection_string
 
+## Running Project
+
+Press F5 to run project.
