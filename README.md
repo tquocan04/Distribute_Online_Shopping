@@ -2,6 +2,12 @@
 
 A backend project to manage and distribute customer and employee data based on geographic regions (North, Central, South) and global data using ASP.NET Core Web API.
 
+## Related Repositories
+
+- [Frontend (User Website)](https://github.com/TuananhDo0308/arccoffee)
+- [Admin Dashboard](https://github.com/TuananhDo0308/arccoffee-admin)
+- [Backend](https://github.com/tquocan04/Distribute_Online_Shopping)
+
 ## Table of Contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
@@ -18,13 +24,13 @@ A backend project to manage and distribute customer and employee data based on g
 
 ## Tech Stack
 
-**Database:** SQL Server, MongoDB
+- **Database:** SQL Server, MongoDB
 
-**Tools:** Entity Framework, JWT, AutoMapper
+- **Tools:** Entity Framework, JWT, AutoMapper
 
-**Framework:** ASP.NET Core Web API 8.0
+- **Framework:** ASP.NET Core Web API 8.0
 
-**Multimedia Storage:** Cloudinary
+- **Multimedia Storage:** Cloudinary
 
 ## Installation
 
@@ -69,9 +75,4 @@ A backend project to manage and distribute customer and employee data based on g
    Create a `.env` file in the root directory (Online_Shopping project) with the following:
      ```env
      DB_CONNECTION_STRING=your_sql_server_connection_string
-
-
-## Running Project
-
-Press F5 to run project.
 
